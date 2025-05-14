@@ -10,7 +10,7 @@ const About = () => {
       <div className="about-container">
         <div className="about-left">
           <img src={profileImg} alt="Profile" className="about-image" />
-          <a href="https://drive.google.com/file/d/1PX06RWJuxhDWTfp3fST1hk7LsL2gS4pk/view?usp=drive_link" >
+          <a href="https://drive.google.com/file/d/1uE9oTRYFivGAip-DBswNJwWokZxSybQS/view?usp=drive_link" >
             <button className="resume-btn">View Resume</button>
           </a>
         </div>
