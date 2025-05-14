@@ -2,7 +2,7 @@ import React from 'react';
 import './Projects.css';
 
 import FED from '../assets/Project2.png';
-import leafImg from '../assets/Project1.png';
+import leafImg from '../assets/project1.png';
 import Game from '../assets/Project3.png';
 
 const projects = [
